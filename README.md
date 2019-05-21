@@ -116,7 +116,7 @@ There are many text editors out there. We will be using an editor called VIM (sh
 - One powerful feature in VIM is the ability to repeat commands automatically. Type the number 10 before using the `A` (note that it's capitalized) command to add text to the end of the line; Press enter to go to the next line and then type a short message. See what happens when you finish the message and press `esc`
 - Now that you have several lines in your file, line numbers might be helpful. Enable them using the `:set number` command.
 - Ten copies of the same message might be a bit too much. Move the cursor to line 2 and type `9dd`. You should now see only one line of your message.
-
+vm
 #### Creating directories
 
 
